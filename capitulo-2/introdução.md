@@ -13,3 +13,7 @@
 # Introdução por perguntas
 ### EX:
 -> No Brail, o perfl demográfico modificou-se bastante nas ultimas quatro décadas. Passamos de uma sociedade jovem a uma comunidade preocupada com políticas públicas voltadas ao tema do envelhecimento. Quais são as causas desse aumento de expectativa de vida do País? Os idosos têm sido plenamente respeitados em sua atuação cotidiana, seja no ambiente doméstico, seja no convivio social? Como cada cidadão deveria proceder para assegurar aos idosos a estabilidade de que necessitam? Esses questionamentos apresentam respostas que podem conduzir a sociedade em geral a refletir sobre a necessidade oe valorizar esse segmento social tão importante para evolução socioeconômica do País.
+
+# Introdução por contraste de ideias:
+### EX:
+-> No Brasil,enquanto a Carta Magna garante, em seu artigo 144, que a segurança pública é dever do Estado e consiste em direito e responsabilidade de todos, o que se verifica cotidianamente é a escassez de confiabilidade popular no falho aparato protetivo oferecido pelo poder público à população em geral.A iminência de um colapso nesse sistema de combate à violência urbana atesta a exiguadade de ações preventivas nos planos políticos e social com o fito de minorar a criminalidade no País.
